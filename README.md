@@ -3,7 +3,7 @@
 
 This repository contains a Retrieval-Augmented Generation (RAG) assistant built for the IEEE Robotics and Automation Society (IEEE RAS). The application processes domain documentation into a vector database to answer user questions accurately based on retrieved context.
 
-Live Application: https://ieee-ras-rogassistant.streamlit.app
+Live Application: ieee-ras-rogassistant-19678.streamlit.app
 
 ## Overview
 
