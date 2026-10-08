@@ -24,15 +24,3 @@ The system loads source text documents, splits them into semantic chunks, and cr
 * ieee_ras_info.txt - Source domain documentation file
 * requirements.txt - Required Python dependencies
 * README.md - Project documentation
-
-## Installation and Local Running
-
-1. Clone the repository:
-   git clone https://github.com/Rishi1911git/ieee-ras-rogassistant.git
-   cd ieee-ras-rogassistant
-
-2. Install the required dependencies:
-   pip install -r requirements.txt
-
-3. Start the application:
-   streamlit run app.py
